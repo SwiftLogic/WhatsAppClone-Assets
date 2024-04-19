@@ -1,5 +1,5 @@
 # WhatsAppClone-Assets
-Image, Colors and Other Asset Catalogs for [**SwiftSkool's**](www.youtube.com/@SwiftSkool)  [**WhatsAppClone Series**](www.youtube.com/@SwiftSkool(https://youtube.com/playlist?list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&si=QX5OZOtxm6aoAx7X)) Series
+Image, Colors and Other Asset Catalogs for **SwiftSkool's** [**WhatsAppClone Series**](https://youtube.com/playlist?list=PLpOMyrbvDL0dcXlDsiitj2RITp5n9VMyx&si=hG5gdpDsZ6tltA6F) Series
 
 This contains app icon, colors, background image and everything you need in the asset catalog
 
